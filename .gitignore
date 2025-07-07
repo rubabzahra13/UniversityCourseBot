@@ -1,0 +1,18 @@
+# Ignore virtual environments
+env/
+.venv/
+ENV/
+
+# Ignore vector store or DBs
+chroma_db/
+chromadb/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore API keys
+.env
+
+# Ignore Streamlit secrets
+.streamlit/secrets.toml

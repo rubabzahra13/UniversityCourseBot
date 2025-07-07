@@ -1,0 +1,9 @@
+langchain
+openai
+chromadb
+tiktoken
+sentence-transformers
+unstructured
+pypdf
+streamlit
+python-dotenv
