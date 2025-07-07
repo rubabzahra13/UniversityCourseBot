@@ -7,3 +7,5 @@ unstructured
 pypdf
 streamlit
 python-dotenv
+langchain-community
+langchain-openai
